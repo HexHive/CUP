@@ -1,0 +1,6 @@
+Open source code for "CUP: Comprehensive User-Space Protection for C/C++" AsiaCCS '18.
+
+I am currently working to clean up the private working repository and push a somewhat sane
+version here.  This code will be a very preliminary prototype.  A cleaner reimplementation that 
+does not rely on analyzing IR to find pointer dereferences is in progress, but I have no
+estimate as to when it will be finished, it is a side project.  
